@@ -25,18 +25,18 @@ o	7.5/9 Band in academic writing.
 o	 9/9 Band overall.
 o	9/9 Band in listening, speaking, reading.
 o	9/9 Band in writing.
-## Professional experience
-# •	Duty Doctor	                                                                                                                          08/02/2023 to 12/02/2023 
+# Professional experience
+# •	Duty Doctor	                                                                                                                   08/02/2023 to 12/02/2023 
 Cauvery Hospitals,
 Hunsur, India
 
 o	Was responsible for the direct care of approximately 20 patients admitted under in the specialties of Medicine and General Surgery.
 	
-# •	Resident Doctor	                                                                                                                     01/04/2019 to 01/28/2023 
+# •	Resident Doctor	                                                                                                                   01/04/2019 to 01/28/2023 
 Elite Nursing Home, Mysore, India.
 o	Was responsible for the direct care of around 25 inpatients and 200 outpatients in the specialties of General Medicine, General Surgery, OBGYN and Pediatrics.
 
-# •	Pharma Regulatory Editor	                                                                                                           10/13/2021 to 03/23/2022 
+# •	Pharma Regulatory Editor	                                                                                                   10/13/2021 to 03/23/2022 
 Cactus Communications Pvt Ltd
 Mumbai, India.
 
@@ -53,7 +53,7 @@ o	Study design, collation of the data and subsequent data entry of Clinical Rese
 o	Conducted interviews of patients in the outpatient Diabetes clinic with a structured questionnaire.
 o	Conducted statistical analysis of the data using SPSS.
 
-# •	Duty Doctor	                                                                                                                        10/05/2011 to 03/30/2015 
+# •	Duty Doctor	                                                                                                                   10/05/2011 to 03/30/2015 
 Ashwini Clinic, Mysore, India.
 o	Was responsible for the direct care of 100 outpatients in the specialties of General Medicine
 o	Public health education through camps, seminars, and mass media.
