@@ -7,7 +7,7 @@ Latest Resume
 
 Email: faizan.s@northeastern.edu
 # Introduction 
-I am a highly motivated health and research professional with a clinical background as a physician in India and broad experience in clinical research and data analysis.  Currently pursuing an MPS in Informatics with a concentration in Analytics at Northeastern University, Toronto.
+I am a highly motivated health and research professional with a clinical background as a physician in India and broad experience in clinical research and data analysis.  Currently pursuing an MPS in Analytics with a concentration in Applied Machine learning at Northeastern University, Toronto.
 
 # Education and Credentials
 •	Graduate Student- Master of Professional Studies in Informatics with a concentration in Analytics                                        01/08/2024 to Present (Expected Date of Graduation – 12/31/2025)
