@@ -1,5 +1,5 @@
 **SYED FAIZAN, MD**
-faizan.s@northeastern.edu   |	+1-289-885-4110
+faizan.s@northeastern.edu   
 
 Mississauga, Ontario, Canada.
 
