@@ -1,7 +1,7 @@
 **SYED FAIZAN, MD**
 faizan.s@northeastern.edu   
 
-Mississauga, Ontario, Canada.
+Scarborough, Ontario, Canada.
 
 *Introduction* 
 Pursuing my master’s in professional studies in Data Analysis and Applied Machine Learning at Northeastern University. With over 10 years of experience in clinical research, patient care, and public health education, I have a passion for Data Analysis, Deep Learning bridging the fields of Health care with AI and Machine Learning to improve patient care and satisfaction. I love programming and Mathematics!
